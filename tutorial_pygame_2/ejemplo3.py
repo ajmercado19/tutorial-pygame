@@ -5,6 +5,7 @@
 # Licencia: X11/MIT license http://www.opensource.org/licenses/mit-license.php
 # https://www.pythonmania.net/es/2010/03/25/tutorial-pygame-2-ventana-e-imagenes/
 
+#DISCULPA ESTO ES UNA PRUEBA PARA UNA PAGINA TUTORIAL SOBRE GITHUB.
 # ---------------------------
 # Importacion de los módulos
 # ---------------------------
